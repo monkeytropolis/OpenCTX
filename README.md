@@ -1,4 +1,4 @@
-# OpenCTX_Main
+# OpenCTX
 Main branch for the OpenCTX control and imaging software.
 
 This package is used to control the OpenCTX scanner. It includes all of the mechanical and electrical control logic, as well as detector driving and imaging routines.
